@@ -14,6 +14,6 @@ This project includes using a large timeseries data set within Pandas to take a 
   
 <h3><a href="https://www.kaggle.com/fionaeliza/code?scroll=true">Fiona Dean's Kaggle Notebooks</a></h3>
 
-If you would like to run either of these in a python environment, I have my kaggle profile linked below.
+If you would like to run either of these in a python environment, I have my kaggle profile as linked.
 </html>
 
