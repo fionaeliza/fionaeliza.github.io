@@ -1,4 +1,4 @@
-# Fiona Dean's Data Analysit Projects
+# Fiona Dean's Data Analyst Projects
 
 PJM Electrical Data, Cleansing project </br>
 This project includes cleaning up a large timeseries data set within Pandas and adding to it holiday and temperature data. You can find the jupyter notebook at the following link.</br>
