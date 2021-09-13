@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <h2>Fiona Dean's Data Analyst Projects</h2>
