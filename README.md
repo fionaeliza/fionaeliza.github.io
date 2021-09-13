@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<h2>Fiona Dean's Data Analyst Projects</h3>
+<h2>Fiona Dean's Data Analyst Projects</h2>
 
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/blob/main/PJM_Analysis_Fiona_Dean_cleansing.ipynb">PJM Electrical Data, Cleansing project</a></h3>
 
