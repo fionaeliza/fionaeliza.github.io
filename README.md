@@ -16,5 +16,8 @@ If you would like to run my code in a python environment, connected to Kaggle da
 <h2>Fiona Dean's Data Analyst Projects in Excel and PPT</h2>  
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/SouthernWaterCorp">Southern Water Corp Data Analysis Project</a></h3>
 
+  <h2>Fiona Dean's Inferrential Statistics Capstone</h2>
+<h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/BHM">Boston Housing Market Capstone</a></h3>
+
 </html>
 
