@@ -1,1 +1,1 @@
-Within this program we use python to manipulate a large time series data set, combine it with holiday and temperature data, and then analyse it and create a model. I have further used Power BI to create visual report out on the findings.
+Within this program we use python to manipulate a large time series data set, combine it with holiday and temperature data, and then analyse it and create a model using SARIMA. I have further used Power BI to create visual report out on the findings.
