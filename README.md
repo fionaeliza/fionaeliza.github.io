@@ -3,7 +3,7 @@
   <center><h1>Fiona Dean's Data Analyst Projects</h1></center>
 
   <h2> Python Projects </h2>
-<h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/PJM">PJM Electrical Data Analysis Project</a></h3>
+<h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/PJM">PJM Electrical Capstone Project</a></h3>
 
 This project includes cleaning up a large timeseries data set using timestamps and Pandas, then adding to holiday and temperature data. Then it takes a look at how we consume electricity using Seaborn with regards to holidays and temperature. It also provides a SARIMA model that can be used to predict future electrical consumption.
   
@@ -17,7 +17,7 @@ If you would like to run my code in a python environment, connected to Kaggle da
 <h2>Excel and PPT</h2>  
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/SouthernWaterCorp">Southern Water Corp Data Analysis Project</a></h3>
 
-  <h2>Fiona Dean's Inferrential Statistics Capstone</h2>
+  <h2>Inferrential Statistics Capstone</h2>
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/BHM">Boston Housing Market Capstone</a></h3>
 
 </html>
