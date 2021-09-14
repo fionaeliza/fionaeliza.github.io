@@ -1,1 +1,1 @@
-This project included using the SQL queries I wrote to pull data from a server. Then, I used Power BI to create a visual of the data.
+This project included using the SQL queries I wrote to pull data from a server. Then, I used Power BI to create a visual of the data. As the dashboard was to be used in a presentation, there are more visuals than needed.
