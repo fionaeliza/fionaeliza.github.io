@@ -4,7 +4,7 @@
 
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/PJM">PJM Electrical Data</a></h3>
 
-This project includes cleaning up a large timeseries data set within Pandas and adding to it holiday and temperature data. Then it includes, using a large timeseries data set within Pandas to take a look at how we consume electricity with regards to holidays and temperature. It also provides a model that can be used to predict future electrical consumption.
+This project includes cleaning up a large timeseries data within Pandas and adding to it holiday and temperature data. Then it takes a look at how we consume electricity using Seaborn with regards to holidays and temperature. It also provides a SARIMA model that can be used to predict future electrical consumption.
   
 <h3><a href="https://www.kaggle.com/fionaeliza/code?scroll=true">Fiona Dean's Kaggle Notebooks</a></h3>
 
