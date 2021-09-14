@@ -12,6 +12,8 @@ If you would like to run my code in a python environment, connected to Kaggle da
   
 <h2>Fiona Dean's Data Analyst Projects in SQL</h2>
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/AEMR">AEMR Data Analysis Project</a></h3>
+
+<h2>Fiona Dean's Data Analyst Projects in Excel and PPT</h2>  
   
 </html>
 
