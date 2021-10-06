@@ -11,7 +11,7 @@ This project includes cleaning up a large timeseries data set using timestamps a
 
 If you would like to run my code in a python environment, connected to Kaggle data sets, I have my kaggle profile as linked.
   
-<h2>PowerBI Dashboards in PPT format<h2<
+<h2>PowerBI Dashboards in PPT format</h2>
   <h3><a href="https://www.linkedin.com/in/fiona-eliza-dean/detail/treasury/position:1837921132/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAByOOukB5XGqHIJ9HQ6TA8AeCzZd8ZekkMY%2C1635468619180)&parentEntityUrn=urn%3Ali%3Afsd_profilePosition%3A(ACoAAByOOukB5XGqHIJ9HQ6TA8AeCzZd8ZekkMY%2C1837921132)&section=position%3A1837921132&treasuryCount=2">PJM Electrical Capstone in PowerBI</a></h3>
 This PowerBI dashboard is currently in PPT form to share. It is creates an interactive workspace for users to see how PJM's electrical data can be broken down over days, holidays, and temperatures.
  
