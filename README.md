@@ -1,7 +1,7 @@
 <html>
 
   <center><h1>Fiona Dean's Data Analyst Projects</h1></center>
-
+  
   <h2> Python Projects </h2>
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/PJM">PJM Electrical Capstone Project</a></h3>
 
@@ -24,5 +24,8 @@ This PowerBI dashboard is currently in PPT form to share. It is creates an inter
   <h2>Inferrential Statistics Capstone</h2>
 <h3><a href="https://github.com/fionaeliza/fionaeliza.github.io/tree/main/BHM">Boston Housing Market Capstone</a></h3>
 
+  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="fiona-eliza-dean" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/fiona-eliza-dean?trk=profile-badge">Fiona Dean</a></div>
+                
 </html>
 
