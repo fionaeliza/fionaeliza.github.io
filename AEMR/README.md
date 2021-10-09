@@ -3,3 +3,5 @@ This project included using the SQL queries I wrote to pull data from a server. 
 SQL Queries file - https://github.com/fionaeliza/fionaeliza.github.io/blob/main/AEMR/AEMR_query.sql
 
 PPT formatting of PowerBI dashboard - https://github.com/fionaeliza/fionaeliza.github.io/blob/main/AEMR/aemr_PowerBI_to_PPT.pptxv
+
+PowerBI file - https://github.com/fionaeliza/fionaeliza.github.io/blob/main/AEMR/aemr_PowerBI_to_PPT.pptx
