@@ -1,1 +1,1 @@
-This is an example VBA code. It opens 6 excel workbooks, finds the appropriate month's worksheet, and copies data over into a new excel workbook, organizing and then applying conditional formatting.
+This is an example VBA code. It opens 6 excel workbooks, finds the appropriate month's worksheet, and copies data from each of the 6 workbooks into a new excel workbook. This is then organized and has conditional formatting applied to create heatmap charts.
